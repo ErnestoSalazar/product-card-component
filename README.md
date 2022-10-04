@@ -30,8 +30,8 @@ Mobile
 
 ### Links
 
-- [Solution URL]()
-- [Live Site URL]()
+- [Solution URL](https://www.frontendmentor.io/solutions/productpreviewcardcomponent-P3dYeyf4Cr)
+- [Live Site URL](https://ernestosalazar.github.io/product-card-component/)
 
 
 

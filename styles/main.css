@@ -65,7 +65,7 @@ body {
   letter-spacing: 0.3125rem;
 }
 
-.card-content > h2 {
+.card-content > h1 {
   font-family: var(--fraunces);
   font-size: 2rem;
   color: var(--very-dark-blue);
